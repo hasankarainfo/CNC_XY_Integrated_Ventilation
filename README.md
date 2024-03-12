@@ -4,7 +4,7 @@ Diyot lazer uyumlu, bütünleşik havalandırmalı, iki eksen cnc.
     <img alt="CNC_XY_Integrated_Ventilation Readme" src="Mechanic_60x100/Media/Perspective.png" width="600" />
 </p>
 
-Highlights:
+Öne Çıkanlar:
 1. Çalışması için, ihtiyaç duyduğu tüm materyalleri bütün olarak üzerinde barındırması,
 2. Üzerinde bütünleşik bulunan ızgara ile, hava akımı yönlendirilmesi yanısıra, bal peteği ihtiyacının karşılanması,
 3. Parça aydınlatma şiddeti, Havalandırma akış hızı, kompresör hava akış hız kontrolcüleri bulunması,
