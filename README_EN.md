@@ -1,19 +1,22 @@
 # CNC_XY_Integrated_Ventilation
+Diode laser compatible, integrated ventilation, two axis cnc.
+<p align="center">
+    <img alt="CNC_XY_Integrated_Ventilation Readme" src="Mechanic_60x100/Media/Perspective.png" width="600" />
+</p>
 
-❮img src="Mechanic_60x100/Media/Perspective.png" width="600" ❯
-It was designed based on the ability to perform diode laser operations in closed and limited areas.
-
-❮img src="Mechanic_60x100/Media/DevicesPerspective.png" width="400" ❯
-It contains all the materials it needs to work,
-In addition to directing the air flow with its integrated grill, it also meets the honeycomb need,
-Part lighting intensity, ventilation flow speed, compressor air flow speed controllers,
-In addition to manual and separate management of all electronic controllers, they can also work automatically and integrated with the operation,
-It is ready for use on a standard work table, after the socket and ventilation pipe are installed,
-Suitability for production and mechanical strength are prominent features.
+Highlights:
+1. It contains all the materials it needs to work,
+2. In addition to directing the air flow with its integrated grill, it also meets the honeycomb need,
+3. Part lighting intensity, ventilation flow speed, compressor air flow speed controllers,
+4. In addition to manual and separate management of all electronic controllers, they can also work automatically and integrated with the operation,
+5. It is ready for use on a standard work table, after the socket and ventilation pipe are installed,
+6. Suitability for production and mechanical strength are prominent features.
 
 Completely free design programs were used during the design process. FreeCad applications were preferred for Mechanics and Kicad applications for Electronics.
-
-❮img src="Mechanic_60x100/Media/DynamicData.png" width="200" ❯
+<p align="left">
+    <img alt="CNC_XY_Integrated_Ventilation Readme" src="Mechanic_60x100/Media/DynamicData.png" width="300" />
+    <img alt="CNC_XY_Integrated_Ventilation Readme" src="Mechanic_60x100/Media/DynamicDataMove.png" width="500" />
+</p>
 CNC Mechanical dimensions CNC_XY.FCStd file can be updated via ddSigmaX and ddSigmaY variables in dd (dynamic data) on the main tab.
 These variables are equivalent to the exact lengths of the sigma profiles on the x and y axes in the design. 
 All parts connected to Sigma sizes will be updated automatically.
@@ -22,13 +25,17 @@ The "unfold" process is performed again. The resulting cut and bend sketches are
 In technical drawing files, within the view tabs, the attached sketches are updated with the cutting and bending order via XSource properties.
 Old cutting and bending sketches can be deleted. In some cases, the measurement indicators in the technical drawing may need to be re-specified.
 
-❮img src="Mechanic_60x100/Media/DynamicDataMove.png" width="200" ❯
 The laser can be moved with ddmove variables. The working area is automatically calculated by evaluating sigma lengths and other parameters,
 The result values are seen in the ddLimitX ddLimitY parameters.
 
-❮img src="HW/MSConn/Media/MSConn_Diagram.png" width="600" ❯
+<p align="left">
+    <img alt="CNC_XY_Integrated_Ventilation Readme" src="HW/MSConn/Media/MSConn_Diagram.png" width="800" />
+</p>
 Electrical connections can be made by following the Diagram. The diagram was designed within the MSConn board, it can be examined in detail through the kicad project.
-❮img src="HW/MSConn/Media/MSConn_PerspectiveFront.png" width="200" ❯ ❮img src="HW/MSConn/Media/MSConn_PerspectiveRear.png" width="200" ❯
+<p align="left">
+    <img alt="CNC_XY_Integrated_Ventilation Readme" src="HW/MSConn/Media/MSConn_PerspectiveFront.png" width="300" />
+    <img alt="CNC_XY_Integrated_Ventilation Readme" src="HW/MSConn/Media/MSConn_PerspectiveRear.png" width="300" />
+</p>
 
 For production, the BOM file can be examined first.
 Purchase links and approximate prices of the materials required to be purchased can be viewed in Dollars.
@@ -42,4 +49,7 @@ Purchase links and approximate prices of the materials required to be purchased 
     The gerber file needed for PCB production can be found "./HW/MSConn/FabOut_MSConn.zip".
     Detailed MSConn card bom list can be found in the "./HW/MSConn/bom/ibom_MSConn.html" folder.
     The connector pin names and their meanings are written on the card. In this way, cable installation becomes more understandable.
+
+In "./Mechanic_60x100/Media/" there are photos of the first prototype assembly. During the assembly of the first prototype,
+In line with the deficiencies observed, necessary updates were applied to the mechanical and hardware designs.
 
