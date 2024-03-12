@@ -1,0 +1,7 @@
+5mm mdf cut                         8mm focus 1 pass 250 speed, 100 power
+5mm mdf, hardwood 45deg cut         8mm focus 1 pass 120 speed, 100 power
+3mm translucent brown plexi cut     8mm focus 2 pass 220 speed, 100 power
+3mm corrugated cardboard cutting    8mm focus 1 pass 4000 speed, 100 power
+
+
+offset value 0.4mm. Used for complete overlap in cuts

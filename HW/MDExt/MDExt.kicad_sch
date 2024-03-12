@@ -1,0 +1,31 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 44317f16-ea2c-402e-b919-382ea2f262ec)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 25.4 99.06) (size 22.86 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid d833ba88-c152-41de-9df4-190fd75d644d)
+    (property "Sheetname" "MDriverExtendY" (at 25.4 98.3484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "MDriverExtendY.kicad_sch" (at 25.4 125.0446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "CNC_Misc"
+        (path "/44317f16-ea2c-402e-b919-382ea2f262ec" (page "10"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

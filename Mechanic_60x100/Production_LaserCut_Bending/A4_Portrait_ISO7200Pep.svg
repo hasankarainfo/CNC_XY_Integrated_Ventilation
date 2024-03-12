@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg129"
+   width="210mm"
+   height="297mm"
+   version="1.1"
+   viewBox="0 0 210 297"
+   sodipodi:docname="A4_Portrait_ISO7200Pep.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:freecad="http://www.freecad.org/wiki/index.php?title=Svg_Namespace">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0734779"
+     inkscape:cx="297.16494"
+     inkscape:cy="892.89216"
+     inkscape:window-width="1873"
+     inkscape:window-height="1243"
+     inkscape:window-x="1206"
+     inkscape:window-y="105"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg129" />
+  <metadata
+     id="metadata135">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="drawing-border"
+     fill="none"
+     stroke="#000000"
+     stroke-linecap="miter"
+     stroke-width="0.35"
+     style="display:inline"
+     transform="translate(-4.8308653,-0.34506825)">
+    <rect
+       id="rect2"
+       x="15"
+       y="7"
+       width="188"
+       height="283" />
+  </g>
+  <g
+     id="titleblock-structure"
+     fill="none"
+     stroke="#000000"
+     stroke-linecap="miter"
+     stroke-width="0.35"
+     transform="translate(-4.8308653,-0.34506825)">
+    <rect
+       id="rect5"
+       x="63"
+       y="256"
+       width="140"
+       height="34" />
+    <path
+       id="path7"
+       d="M 63,264 H 203" />
+    <!-- upper horizontal Separator Titleblock -->
+    <path
+       id="path9"
+       d="m 63,282 h 87" />
+    <!-- lower horizontal Separator Document-Type -->
+    <path
+       id="path11"
+       d="M 63,286 H 203" />
+    <!-- lower horizontal Separator Copyright -->
+    <path
+       id="path13"
+       d="m 108,256 v 8" />
+    <!-- Separator Author / Owner -->
+    <path
+       id="path15"
+       d="m 150,256 v 30" />
+    <!-- Separator Title / Liste RH -->
+    <path
+       id="path17"
+       d="m 180,256 v 8" />
+    <!-- Separator Scale / Sheet -->
+    <path
+       id="path19"
+       d="m 150,272 h 53" />
+    <!-- Separator Part / Drawing-Nr -->
+    <path
+       id="path21"
+       d="m 150,278 h 53" />
+    <!-- Separator DRW-Info / Revision -->
+    <path
+       id="path23"
+       d="m 180,278 v 8" />
+    <!-- Separator Date / Revision -->
+  </g>
+  <g
+     id="titleblock-text-non-editable"
+     font-family="tahoma"
+     font-size="3px"
+     transform="translate(-4.8308653,-0.34506825)"
+     style="display:inline">
+    <text
+       id="text26"
+       x="64"
+       y="259">Author:</text>
+    <text
+       id="text28"
+       x="64"
+       y="263">Appr.:</text>
+    <text
+       id="text30"
+       x="109"
+       y="259">Legal owner:</text>
+    <text
+       id="text32"
+       x="64"
+       y="268">TITLE:</text>
+    <text
+       id="text34"
+       x="64"
+       y="285">Document type:</text>
+    <text
+       id="text36"
+       x="181"
+       y="259">Sheet:</text>
+    <text
+       id="text38"
+       x="181"
+       y="263">Size:</text>
+    <text
+       id="text40"
+       x="151"
+       y="259">Scale:</text>
+    <text
+       id="text42"
+       x="151"
+       y="263">Toler.:</text>
+    <text
+       id="text44"
+       x="151"
+       y="267">Part material:</text>
+    <text
+       id="text46"
+       x="151"
+       y="271">Part number:</text>
+    <text
+       id="text48"
+       x="151"
+       y="276">Drawing no.:</text>
+    <text
+       id="text50"
+       x="151"
+       y="281">Date:</text>
+    <text
+       id="text52"
+       x="181"
+       y="281">Revision:</text>
+  </g>
+  <g
+     id="titleblock-text-editable"
+     font-family="tahoma"
+     font-size="3px"
+     transform="translate(-4.8308653,-0.34506825)"
+     style="display:inline">
+    <text
+       id="text57"
+       x="75"
+       y="259"
+       freecad:editable="AUTHOR_NAME"
+       style="-inkscape-font-specification:'tahoma, Normal';font-family:tahoma;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         sodipodi:role="line"
+         id="tspan14">Hasan KARA</tspan></text>
+    <text
+       id="text61"
+       x="75"
+       y="263"
+       freecad:editable="APPROVER_NAME"
+       inkscape:label="text61"
+       style="-inkscape-font-specification:'tahoma, Normal';font-family:tahoma;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         sodipodi:role="line"
+         id="tspan13"></tspan></text>
+    <text
+       id="text65"
+       x="110"
+       y="263"
+       freecad:editable="OWNER_NAME"
+       style="-inkscape-font-specification:'tahoma, Normal';font-family:tahoma;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         sodipodi:role="line"
+         id="tspan12"></tspan></text>
+    <text
+       id="text69"
+       x="65"
+       y="272"
+       freecad:editable="TITLELINE-1"
+       style="-inkscape-font-specification:'tahoma, Normal';font-family:tahoma;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         sodipodi:role="line"
+         id="tspan20">Bend Radius 3MM</tspan></text>
+    <text
+       id="text73"
+       x="65"
+       y="276"
+       freecad:editable="TITLELINE-2"
+       style="-inkscape-font-specification:'tahoma, Normal';font-family:tahoma;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         sodipodi:role="line"
+         id="tspan19">Thickness : 3MM</tspan></text>
+    <text
+       id="text77"
+       x="65"
+       y="280"
+       freecad:editable="TITLELINE-3"
+       style="-inkscape-font-specification:'tahoma, Normal';font-family:tahoma;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         sodipodi:role="line"
+         id="tspan18">QTY : 1</tspan></text>
+    <text
+       id="text81"
+       x="87"
+       y="285"
+       freecad:editable="DOCUMENT_TYPE"
+       inkscape:label="text81"
+       style="-inkscape-font-specification:'tahoma, Normal';font-family:tahoma;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         sodipodi:role="line"
+         id="tspan21"> Mechanical bending drawing</tspan></text>
+    <text
+       id="text85"
+       x="190"
+       y="259"
+       freecad:editable="SHEET"
+       style="-inkscape-font-specification:'tahoma, Normal';font-family:tahoma;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         sodipodi:role="line"
+         id="tspan9">1 of 1</tspan></text>
+    <text
+       id="text89"
+       x="160"
+       y="259"
+       freecad:editable="SCALE"
+       style="-inkscape-font-specification:'tahoma, Normal';font-family:tahoma;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         sodipodi:role="line"
+         id="tspan8">M 1:1</tspan></text>
+    <text
+       id="text93"
+       x="160"
+       y="263"
+       freecad:editable="TOLERANCE"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         x="160"
+         y="263">+/- %0.1</tspan></text>
+    <text
+       id="text97"
+       x="170"
+       y="267"
+       freecad:editable="PM"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         sodipodi:role="line"
+         id="tspan17"></tspan></text>
+    <text
+       id="text101"
+       x="170"
+       y="271"
+       freecad:editable="PN"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         sodipodi:role="line"
+         id="tspan16"></tspan></text>
+    <text
+       id="text105"
+       x="170"
+       y="276"
+       freecad:editable="DN"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         sodipodi:role="line"
+         id="tspan15"></tspan></text>
+    <text
+       id="text109"
+       x="152"
+       y="285"
+       freecad:editable="DATE"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         inkscape:label="tspan1"
+         x="152"
+         y="285">2023-11-17</tspan></text>
+    <text
+       id="text113"
+       x="182"
+       y="285"
+       freecad:editable="REVISION"><tspan
+         id="tspan111">REV A</tspan></text>
+    <text
+       id="text117"
+       x="190"
+       y="263"
+       freecad:editable="SIZE"
+       style="display:inline"><tspan
+         id="tspan115">A4</tspan></text>
+    <text
+       id="text121"
+       x="64"
+       y="289"
+       freecad:editable="RIGHTS"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:tahoma;-inkscape-font-specification:'tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="64"
+         y="289">Contact : info@hasankara.info</tspan></text>
+  </g>
+  <!-- Set display:none to hide FreeCAD Logo or remove this and next 4 lines from this code -->
+</svg>

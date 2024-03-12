@@ -1,0 +1,316 @@
+75915032876136
+My_Library
+CD43_Inductor
+
+
+0
+2
+2
+My_Library
+CD54_Inductor
+
+
+0
+2
+2
+My_Library
+CP_Axial_L7.5.0mm_D16.0mm_P21.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=7.5mm, , length*diameter=21*16mm^2, Electrolytic Capacitor, 
+CP Axial series Axial Horizontal pin pitch 7.5mm  length 21mm diameter 16mm Electrolytic Capacitor
+0
+2
+2
+My_Library
+C_Rect_L10.0mm_W2.5mm_P7.50mm_MKS4_pad
+C, Rect series, Radial, pin pitch=7.50mm, , length*width=10*2.5mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
+C Rect series Radial pin pitch 7.50mm  length 10mm width 2.5mm Capacitor
+0
+2
+2
+My_Library
+Choke_PLA10
+EMI Suppression Filters 
+chokes murata tht
+0
+4
+4
+My_Library
+Conn_Speaker_Terminal_6way_pcb
+
+
+0
+6
+6
+My_Library
+DT-ESP-C05
+
+
+0
+19
+19
+My_Library
+D_SOD-123F-s
+D_SOD-123F
+D_SOD-123F
+0
+2
+2
+My_Library
+Fuse_1206_3216Metric-s
+Fuse SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+fuse
+0
+2
+2
+My_Library
+Fuse_6125
+
+
+0
+2
+2
+My_Library
+HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.3x2.3mm_SPEC
+HSOP, 8 Pin (https://www.st.com/resource/en/datasheet/l7980.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HSOP SO
+0
+19
+9
+My_Library
+Jack_3.5mm_Ledino_KB3SPRS_Horizontal_Spec
+https://www.reichelt.de/index.html?ACTION=7&LA=3&OPEN=0&INDEX=0&FILENAME=C160%252FKB3SPRS.pdf
+jack stereo TRS
+0
+5
+5
+My_Library
+KCD1101BL
+KCD1-101BL-4
+Switch
+0
+2
+2
+My_Library
+LED_0805_2012Metric-s
+LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+LED
+0
+2
+2
+My_Library
+LED_SMD2835Y
+LED SMD 2835
+LED 2835
+0
+2
+2
+My_Library
+Module_TMC2209_3D
+Module Stepper Motor Driver TMC2209 Only 3D
+Through hole socket strip THT 1x08 2.54mm single row
+0
+0
+0
+My_Library
+MountingHole_1.1mm_M1_Pad
+Mounting Hole 1.1mm, M1
+mounting hole 1.1mm m1
+0
+1
+1
+My_Library
+MountingHole_5mm_Pad_Via-s
+Mounting Hole 5mm
+mounting hole 5mm
+0
+9
+1
+My_Library
+PinHeader_2x04_P2.00mm_Vertical_Smd_JKUN
+Through hole straight pin header, 2x04, 2.00mm pitch, double rows
+Through hole pin header THT 2x04 2.00mm double row
+0
+8
+8
+My_Library
+PinSocket_1x08_P2.54mm_Vertical_Long
+Through hole straight socket strip, 1x08, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x08 2.54mm single row
+0
+8
+8
+My_Library
+PinSocket_2x06_P2.54mm_Vertical-s
+Through hole straight socket strip, 2x06, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x06 2.54mm double row
+0
+12
+12
+My_Library
+Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles_BD
+Potentiometer, vertical, 9mm, single, http://www.taiwanalpha.com.tw/downloads?target=products&id=113
+potentiometer vertical 9mm single
+0
+5
+5
+My_Library
+Potentiometer_Alps_RK097_Dual_Horizontal_Spec
+1210, Dual Pot, Horizontal, Alps RK097 Dual,  https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk097/rk097.pdf
+Potentiometer horizontal Alps RK097 Dual
+0
+6
+6
+My_Library
+Potentiometer_Alps_RK097_Dual_Horizontal_Switch_Spec
+1221-5R1211, Dual Pot, Horizontal, Switch, Alps RK097 Dual, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk097/rk097.pdf
+Potentiometer horizontal Alps RK097 Dual Switch Spec
+0
+8
+8
+My_Library
+QFN-28-1EP_4x4mm_P0.45mm_EP2.4x2.4mm_ThermalVias-S
+QFN, 28 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/8008S.pdf#page=16), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+43
+29
+My_Library
+R_Array_Convex_4x0603-s
+Chip Resistor Network, ROHM MNR14 (see mnr_g.pdf)
+resistor array
+0
+8
+8
+My_Library
+R_Axial_Shunt_L25mm_W2.5mm
+Resistor, Axial_Shunt series, Box, pin pitch=25mm, 10W, length*width*height=25*2.5*5mm^3
+Resistor Axial_Shunt series Box pin pitch 25mm 10W length 22.2mm width 2.5mm height 5MM
+0
+3
+3
+My_Library
+SOIC-8_3.9x4.9mm_P1.27mm-SVREF
+SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+4
+4
+My_Library
+SOP-16_3.9x9.9mm_P1.27mm-s
+SOP, 16 Pin (https://www.diodes.com/assets/Datasheets/PAM8403.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOP SO
+0
+16
+16
+My_Library
+SOP65P640X120-14N
+
+
+0
+14
+14
+My_Library
+SOT-23-3-s
+SOT, 3 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178D.PDF inferred 3-pin variant), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+3
+3
+My_Library
+SOT33-5A
+
+
+0
+6
+5
+My_Library
+SOT65P210X110-6N
+
+
+0
+6
+6
+My_Library
+TO-92Flat-s
+TO-92Flat package, often used for hall sensors, drill 0.75mm (see e.g. http://www.ti.com/lit/ds/symlink/drv5023.pdf)
+to-92Flat hall sensor
+0
+3
+3
+My_Library
+TO-263-2-S
+TO-263/D2PAK/DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-3-1/
+D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404
+0
+7
+3
+My_Library
+TO-269AA_spec
+SMD package TO-269AA (e.g. diode bridge), see http://www.vishay.com/docs/88854/padlayouts.pdf
+TO-269AA MBS diode bridge
+0
+4
+4
+My_Library
+TerminalBlock_RND_205-00233_1x03_P5.08mm_Horizontal_spec
+terminal block RND 205-00233, 3 pins, pitch 5.08mm, size 15.2x8.45mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00232_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00233 pitch 5.08mm size 15.2x8.45mm^2 drill 1.1mm pad 2.1mm
+0
+3
+3
+My_Library
+Transformer_EE19H44
+EE19H44 H13 flyback transformer, https://www.el-kom.com.tr/_pdfs_Elkom/Smps/1-15W-datasheet/14-EE19H44-Datasheet.pdf
+transformer flyback SMPS
+0
+8
+8
+My_Library
+Transformer_EF20H44
+EE19H44 H16,5 flyback transformer, https://www.el-kom.com.tr/_pdfs_Elkom/Smps/16-28W-datasheet/18-EF20H44-Datasheet.pdf
+Transformer flyback SMPS
+0
+8
+8
+My_Library
+Transformer_EF20H55
+EE19H55 H17 flyback transformer, https://www.el-kom.com.tr/_pdfs_Elkom/Smps/16-28W-datasheet/19-EF20H55-Datasheet.pdf
+Transformer flyback SMPS
+0
+10
+9
+My_Library
+Transformer_ETD34
+ETD34 flyback transformer, https://www.tdk-electronics.tdk.com/inf/80/db/fer/etd_34_17_11.pdf
+Transformer flyback SMPS
+0
+14
+14
+My_Library
+Transformer_ETD39
+ETD39 flyback transformer, https://www.tdk-electronics.tdk.com/inf/80/db/fer/etd_39_20_13.pdf
+Transformer flyback SMPS
+0
+16
+16
+My_Library
+Transformer_Myrra_EF20_7408x
+EF20 flyback transformer,http://myrra.com/wp-content/uploads/2017/09/Datasheet-74087-74088-74089-rev-A.pdf
+transformer flyback SMPS
+0
+9
+9
+My_Library
+USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal_SPEC
+USB 2.0 Type C Receptacle, GCT, 16P, top mounted, horizontal, 5A: https://gct.co/files/drawings/usb4105.pdf
+USB C Type-C Receptacle SMD USB 2.0 16P 16C USB4105-15-A USB4105-15-A-060 USB4105-15-A-120 USB4105-GF-A USB4105-GF-A-060 USB4105-GF-A-120
+0
+20
+17
+My_Library
+ac_inlet_pcb
+ac plug 250 VAC
+ac plug power connector 250 vac
+0
+3
+3
